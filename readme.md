@@ -17,8 +17,6 @@ gescrapt, bereinigt und anschließend mit Machine Learning Methoden analysiert.
 ├── 02_eda.ipynb            # Explorative Datenanalyse
 ├── 03_forecasting.ipynb    # Zeitreihenvorhersage mit XGBoost
 ├── 04_anomaly.ipynb        # Anomalieerkennung
-└── data/
-└── lmu_muenchen_2005_2025_clean.csv
 
 ## Methoden & Ergebnisse
 
